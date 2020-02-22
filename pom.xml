@@ -199,14 +199,14 @@
         </build>
 	<distributionManagement>
        <!-- <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
-            <url>http://xxxxxxxxxxxxx:8081/repository/xxxxxxxxx/</url>
+            <id>Nserviceapp-build</id>
+            <name>Nserviceapp-build</name>
+            <url>http://ec2-18-212-108-86.compute-1.amazonaws.com:8081/repository/Nserviceapp-build/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://xxxxxxxxxxxxx:8081/repository/xxxxxxxxx/</url>
+            <id>snapshot</id>
+            <name> Snapshot </name>
+            <url>http:http://ec2-18-212-108-86.compute-1.amazonaws.com:8081/repository/snapshot/
         </snapshotRepository>-->
     </distributionManagement>
 </project>
