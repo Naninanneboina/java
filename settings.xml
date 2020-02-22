@@ -29,3 +29,19 @@
         </profile>
      </profiles>
 </settings>
+<!............Nexus.............>
+<servers>
+   <server>
+      <id>12345</id>
+      <username>admin</username>
+      <password>132sureshn</password>
+   </server>
+</servers>
+
+<servers>
+   <server>
+      <id>snapshot</id>
+      <username>admin</username>
+      <password>132sureshn</password>
+   </server>
+</servers>
